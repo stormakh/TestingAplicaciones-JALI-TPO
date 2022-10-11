@@ -12,4 +12,4 @@
 
 -'Yang Harry Alan Integrante 3'
 
--'Viñas Santiago 4'
+-'Viñas Santiago Integrante 4'
