@@ -14,7 +14,7 @@
 
 -'Viñas Santiago Integrante 4'
 
----------------------------------------------------------------------------------Entrega 2---------------------------------------------------------------------------
+---------------------------------------------------------------------------------Entrega 2------------------------------------------------------------------
 
 "Análisis de los casos de prueba creados para las historias de Usuario de la Entrega 1"
 
@@ -75,4 +75,4 @@ TS-05A: En este caso, es mejor para que el usuario se oriente y tenga en frente 
 
 TS-05B: El usuario debe ser capaz de poder volver a la página principal desde cualquier lado de la página web, sino sería muy tedioso tener que volver manualmente.
 
-Modificación Global: Se actualizó el primer paso de todos los casos de uso, al tener disponible el link actual del sitio web, se reemplazo el placeholder previo.
+Modificación Global de Casos de Uso: Se actualizó el primer paso de todos los casos de uso, al tener disponible el link actual del sitio web, se reemplazo el placeholder previo.
